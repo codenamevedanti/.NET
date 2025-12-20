@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\bin\Debug\net8.0\Report_DEmo.exe
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\bin\Debug\net8.0\Report_DEmo.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\bin\Debug\net8.0\Report_DEmo.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\bin\Debug\net8.0\Report_DEmo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\bin\Debug\net8.0\Report_DEmo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\Report_DEmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\Report_DEmo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\Report_DEmo.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\Report_DEmo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\Report_DEmo.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\Report_DEmo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\refint\Report_DEmo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\Report_DEmo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\Report_DEmo.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Report_DEmo\obj\Debug\net8.0\ref\Report_DEmo.dll

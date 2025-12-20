@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\bin\Debug\net8.0\SealedClass_Demo.exe
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\bin\Debug\net8.0\SealedClass_Demo.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\bin\Debug\net8.0\SealedClass_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\bin\Debug\net8.0\SealedClass_Demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\bin\Debug\net8.0\SealedClass_Demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\SealedClass_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\SealedClass_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\SealedClass_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\SealedClass_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\SealedClass_Demo.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\SealedClass_Demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\refint\SealedClass_Demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\SealedClass_Demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\SealedClass_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\SealedClass_Demo\obj\Debug\net8.0\ref\SealedClass_Demo.dll

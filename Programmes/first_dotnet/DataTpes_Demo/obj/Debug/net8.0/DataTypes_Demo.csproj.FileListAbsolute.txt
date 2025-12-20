@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\bin\Debug\net8.0\DataTypes_Demo.exe
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\bin\Debug\net8.0\DataTypes_Demo.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\bin\Debug\net8.0\DataTypes_Demo.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\bin\Debug\net8.0\DataTypes_Demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\bin\Debug\net8.0\DataTypes_Demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\DataTypes_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\DataTypes_Demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\DataTypes_Demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\DataTypes_Demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\DataTypes_Demo.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\DataTypes_Demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\refint\DataTypes_Demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\DataTypes_Demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\DataTypes_Demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\DataTpes_Demo\obj\Debug\net8.0\ref\DataTypes_Demo.dll

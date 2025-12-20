@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\bin\Debug\net8.0\first_dotnet.exe
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\bin\Debug\net8.0\first_dotnet.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\bin\Debug\net8.0\first_dotnet.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\bin\Debug\net8.0\first_dotnet.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\bin\Debug\net8.0\first_dotnet.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\first_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\first_dotnet.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\first_dotnet.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\first_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\first_dotnet.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\first_dotnet.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\refint\first_dotnet.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\first_dotnet.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\first_dotnet.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\first_dotnet\first_dotnet\obj\Debug\net8.0\ref\first_dotnet.dll

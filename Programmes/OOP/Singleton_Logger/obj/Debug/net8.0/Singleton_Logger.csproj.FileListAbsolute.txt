@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\bin\Debug\net8.0\Singleton_Logger.exe
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\bin\Debug\net8.0\Singleton_Logger.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\bin\Debug\net8.0\Singleton_Logger.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\bin\Debug\net8.0\Singleton_Logger.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\bin\Debug\net8.0\Singleton_Logger.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\Singleton_Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\Singleton_Logger.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\Singleton_Logger.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\Singleton_Logger.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\Singleton_Logger.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\Singleton_Logger.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\refint\Singleton_Logger.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\Singleton_Logger.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\Singleton_Logger.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\OOP\Singleton_Logger\obj\Debug\net8.0\ref\Singleton_Logger.dll
