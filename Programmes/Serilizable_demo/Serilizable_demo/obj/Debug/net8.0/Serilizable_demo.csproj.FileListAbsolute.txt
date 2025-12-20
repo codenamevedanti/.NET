@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\bin\Debug\net8.0\Serilizable_demo.exe
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\bin\Debug\net8.0\Serilizable_demo.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\bin\Debug\net8.0\Serilizable_demo.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\bin\Debug\net8.0\Serilizable_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\bin\Debug\net8.0\Serilizable_demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\Serilizable_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\Serilizable_demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\Serilizable_demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\Serilizable_demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\Serilizable_demo.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\Serilizable_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\refint\Serilizable_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\Serilizable_demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\Serilizable_demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Serilizable_demo\Serilizable_demo\obj\Debug\net8.0\ref\Serilizable_demo.dll
