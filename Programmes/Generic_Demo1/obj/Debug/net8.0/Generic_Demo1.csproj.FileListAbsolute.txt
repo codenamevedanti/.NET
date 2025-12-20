@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\bin\Debug\net8.0\Generic_Demo1.exe
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\bin\Debug\net8.0\Generic_Demo1.deps.json
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\bin\Debug\net8.0\Generic_Demo1.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\bin\Debug\net8.0\Generic_Demo1.dll
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\bin\Debug\net8.0\Generic_Demo1.pdb
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\Generic_Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\Generic_Demo1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\Generic_Demo1.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\Generic_Demo1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\Generic_Demo1.dll
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\refint\Generic_Demo1.dll
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\Generic_Demo1.pdb
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\Generic_Demo1.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\MyDelegates\Generic_Demo1\obj\Debug\net8.0\ref\Generic_Demo1.dll

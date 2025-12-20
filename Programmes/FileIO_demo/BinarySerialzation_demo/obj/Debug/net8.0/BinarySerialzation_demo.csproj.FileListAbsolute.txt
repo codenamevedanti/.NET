@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\bin\Debug\net8.0\BinarySerialzation_demo.exe
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\bin\Debug\net8.0\BinarySerialzation_demo.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\bin\Debug\net8.0\BinarySerialzation_demo.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\bin\Debug\net8.0\BinarySerialzation_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\bin\Debug\net8.0\BinarySerialzation_demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\BinarySerialzation_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\BinarySerialzation_demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\BinarySerialzation_demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\BinarySerialzation_demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\BinarySerialzation_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\refint\BinarySerialzation_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\BinarySerialzation_demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\BinarySerialzation_demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\MyDelegates\FileIO_demo\BinarySerialzation_demo\obj\Debug\net8.0\ref\BinarySerialzation_demo.dll
