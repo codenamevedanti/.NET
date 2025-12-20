@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\bin\Debug\net8.0\ConsoleApp1_demo.exe
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\bin\Debug\net8.0\ConsoleApp1_demo.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\bin\Debug\net8.0\ConsoleApp1_demo.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\bin\Debug\net8.0\ConsoleApp1_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\bin\Debug\net8.0\ConsoleApp1_demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ConsoleApp1_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ConsoleApp1_demo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ConsoleApp1_demo.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ConsoleApp1_demo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ConsoleApp1_demo.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ConsoleApp1_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\refint\ConsoleApp1_demo.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ConsoleApp1_demo.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ConsoleApp1_demo.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\ConsoleApp1_demo\obj\Debug\net8.0\ref\ConsoleApp1_demo.dll

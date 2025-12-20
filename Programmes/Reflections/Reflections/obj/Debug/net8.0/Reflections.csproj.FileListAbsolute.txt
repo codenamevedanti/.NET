@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\bin\Debug\net8.0\Reflections.exe
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\bin\Debug\net8.0\Reflections.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\bin\Debug\net8.0\Reflections.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\bin\Debug\net8.0\Reflections.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\bin\Debug\net8.0\Reflections.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\Reflections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\Reflections.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\Reflections.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\Reflections.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\Reflections.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\Reflections.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\refint\Reflections.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\Reflections.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\Reflections.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\Reflections\obj\Debug\net8.0\ref\Reflections.dll

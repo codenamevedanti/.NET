@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "reflections_DEmo01/1.0.0": {
+        "runtime": {
+          "reflections_DEmo01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "reflections_DEmo01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
