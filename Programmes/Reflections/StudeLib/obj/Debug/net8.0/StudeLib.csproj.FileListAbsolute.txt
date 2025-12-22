@@ -1,0 +1,16 @@
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\bin\Debug\net8.0\StudeLib.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\bin\Debug\net8.0\StudeLib.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\bin\Debug\net8.0\StudeLib.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\bin\Debug\net8.0\MyApplication_Attributes3.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\bin\Debug\net8.0\MyApplication_Attributes3.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.csproj.Up2Date
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\refint\StudeLib.dll
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\StudeLib.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Daily_Work\Programmes\Reflections\StudeLib\obj\Debug\net8.0\ref\StudeLib.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StudeLib/1.0.0": {
+        "dependencies": {
+          "MyApplication_Attributes3": "1.0.0"
+        },
+        "runtime": {
+          "StudeLib.dll": {}
+        }
+      },
+      "MyApplication_Attributes3/1.0.0": {
+        "runtime": {
+          "MyApplication_Attributes3.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyApplication_Attributes3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

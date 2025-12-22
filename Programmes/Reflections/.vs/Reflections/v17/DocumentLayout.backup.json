@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D14A5EB-CEEA-4C43-899E-31A24FD9CFFC}|ConsoleApp1_demo\\ConsoleApp1_demo.csproj|c:\\users\\iet\\desktop\\250845920099\\.net\\daily_work\\programmes\\reflections\\consoleapp1_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D14A5EB-CEEA-4C43-899E-31A24FD9CFFC}|ConsoleApp1_demo\\ConsoleApp1_demo.csproj|solutionrelative:consoleapp1_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41ACB25E-1E7F-4301-8EC4-C29C04638E0D}|MyApplicationAttribute_2\\MyApplicationAttribute_2.csproj|c:\\users\\iet\\desktop\\250845920099\\.net\\daily_work\\programmes\\reflections\\myapplicationattribute_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41ACB25E-1E7F-4301-8EC4-C29C04638E0D}|MyApplicationAttribute_2\\MyApplicationAttribute_2.csproj|solutionrelative:myapplicationattribute_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5069CF-53E0-4135-BE48-DE2F6FCE384B}|MyApplication_Attributes\\MyApplication_Attributes.csproj|c:\\users\\iet\\desktop\\250845920099\\.net\\daily_work\\programmes\\reflections\\myapplication_attributes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5069CF-53E0-4135-BE48-DE2F6FCE384B}|MyApplication_Attributes\\MyApplication_Attributes.csproj|solutionrelative:myapplication_attributes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA646A51-F25F-45C3-9F43-E1E29D9FB602}|MyApplication_Attributes3\\MyApplication_Attributes3.csproj|c:\\users\\iet\\desktop\\250845920099\\.net\\daily_work\\programmes\\reflections\\myapplication_attributes3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA646A51-F25F-45C3-9F43-E1E29D9FB602}|MyApplication_Attributes3\\MyApplication_Attributes3.csproj|solutionrelative:myapplication_attributes3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE55F9AA-28F6-4E9F-ABBE-3DB076BB666D}|StudeLib\\StudeLib.csproj|c:\\users\\iet\\desktop\\250845920099\\.net\\daily_work\\programmes\\reflections\\studelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE55F9AA-28F6-4E9F-ABBE-3DB076BB666D}|StudeLib\\StudeLib.csproj|solutionrelative:studelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85E3575D-FD83-4464-97F2-6CDAE98C60A3}|Reflections\\Reflections.csproj|c:\\users\\iet\\desktop\\250845920099\\.net\\daily_work\\programmes\\reflections\\reflections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85E3575D-FD83-4464-97F2-6CDAE98C60A3}|Reflections\\Reflections.csproj|solutionrelative:reflections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D14A5EB-CEEA-4C43-899E-31A24FD9CFFC}|ConsoleApp1_demo\\ConsoleApp1_demo.csproj|c:\\users\\iet\\desktop\\250845920099\\.net\\daily_work\\programmes\\reflections\\consoleapp1_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D14A5EB-CEEA-4C43-899E-31A24FD9CFFC}|ConsoleApp1_demo\\ConsoleApp1_demo.csproj|solutionrelative:consoleapp1_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\StudeLib\\Class1.cs",
+              "RelativeDocumentMoniker": "StudeLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\StudeLib\\Class1.cs",
+              "RelativeToolTip": "StudeLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:50:35.8Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\Reflections\\Program.cs",
               "RelativeDocumentMoniker": "Reflections\\Program.cs",
               "ToolTip": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\Reflections\\Program.cs",
               "RelativeToolTip": "Reflections\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwDAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T13:52:23.213Z",
+              "WhenOpened": "2025-12-22T12:16:22.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\MyApplication_Attributes3\\Class1.cs",
+              "RelativeDocumentMoniker": "MyApplication_Attributes3\\Class1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\MyApplication_Attributes3\\Class1.cs",
+              "RelativeToolTip": "MyApplication_Attributes3\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T12:00:53.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\MyApplicationAttribute_2\\Program.cs",
+              "RelativeDocumentMoniker": "MyApplicationAttribute_2\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\MyApplicationAttribute_2\\Program.cs",
+              "RelativeToolTip": "MyApplicationAttribute_2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:49:57.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\MyApplication_Attributes\\Class1.cs",
+              "RelativeDocumentMoniker": "MyApplication_Attributes\\Class1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\MyApplication_Attributes\\Class1.cs",
+              "RelativeToolTip": "MyApplication_Attributes\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:40:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\ConsoleApp1_demo\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1_demo\\Program.cs",
               "ToolTip": "C:\\Users\\IET\\Desktop\\250845920099\\.NET\\Daily_Work\\Programmes\\Reflections\\ConsoleApp1_demo\\Program.cs",
               "RelativeToolTip": "ConsoleApp1_demo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T13:51:05.513Z",
               "EditorCaption": ""
