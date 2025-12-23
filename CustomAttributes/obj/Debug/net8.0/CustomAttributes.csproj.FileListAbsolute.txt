@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\.net\CustomAttributes\obj\Debug\net8.0\CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.net\CustomAttributes\obj\Debug\net8.0\CustomAttributes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.net\CustomAttributes\obj\Debug\net8.0\CustomAttributes.AssemblyInfo.cs
+C:\Users\IET\Desktop\.net\CustomAttributes\obj\Debug\net8.0\CustomAttributes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|c:\\users\\iet\\desktop\\.net\\c#features\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|c:\\users\\iet\\desktop\\.net\\c#features\\add\\cmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|solutionrelative:add\\cmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|c:\\users\\iet\\desktop\\.net\\c#features\\subtract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|solutionrelative:subtract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|c:\\users\\iet\\desktop\\.net\\c#features\\multiply\\cmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|solutionrelative:multiply\\cmath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|c:\\users\\iet\\desktop\\.net\\c#features\\c#features.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24E29AD4-5652-4E3D-957E-0C0724FC5B6B}|C#Features.csproj|solutionrelative:c#features.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C#Features",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\C#Features.csproj",
+              "RelativeDocumentMoniker": "C#Features.csproj",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\C#Features.csproj",
+              "RelativeToolTip": "C#Features.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T10:29:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMath.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\Multiply\\CMath.cs",
+              "RelativeDocumentMoniker": "Multiply\\CMath.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\Multiply\\CMath.cs",
+              "RelativeToolTip": "Multiply\\CMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:28:09.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\Subtract\\Class1.cs",
+              "RelativeDocumentMoniker": "Subtract\\Class1.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\Subtract\\Class1.cs",
+              "RelativeToolTip": "Subtract\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:26:39.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMath.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\Add\\CMath.cs",
+              "RelativeDocumentMoniker": "Add\\CMath.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\Add\\CMath.cs",
+              "RelativeToolTip": "Add\\CMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:22:54.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.net\\C#Features\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T10:16:43.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
