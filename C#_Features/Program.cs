@@ -11,11 +11,11 @@ namespace C__Features
         static void Main(string[] args)
         {
             #region normal function check method
-            Console.WriteLine("Enter the number :");
-            int a = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter the number :");
+            //int a = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter the number :");
-            int b = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter the number :");
+            //int b = Convert.ToInt32(Console.ReadLine());
 
             //bool isSumGreater = Add(a, b, out int result, out int product);
 
@@ -70,17 +70,29 @@ namespace C__Features
             //}
             #endregion
 
-            #region valid email id checking code
-            Console.WriteLine("Enter your Email ID:");
-            string? email = Console.ReadLine();
+            #region In-built sum
 
-            if (email != null)
-            {
-                if (email.CheckForValidEmailID())
-                    Console.WriteLine("Valid Email id");
-                else
-                    Console.WriteLine("Invalid Email Id");
-            }
+            //int[] arr = [1, 2, 3, 6, 7];
+            //var result = arr.Sum();
+            //Console.WriteLine($"The of sum of array [{string.Join(",",arr)}]is {result}.");
+            string[] names =new string[] { "Tom", "Holland", "Angelina", "Matthews", "Robert", "Thomas", "David" };
+            var resultNames = Sum(names);
+            //var result = names.Sum();
+            Console.WriteLine(resultNames+",");
+
+            #endregion
+
+            #region valid email id checking code
+            //Console.WriteLine("Enter your Email ID:");
+            //string? email = Console.ReadLine();
+
+            //if (email != null)
+            //{
+            //    if (email.CheckForValidEmailID())
+            //        Console.WriteLine("Valid Email id");
+            //    else
+            //        Console.WriteLine("Invalid Email Id");
+            //}
             #endregion
         }
        
@@ -96,12 +108,27 @@ namespace C__Features
 
             return result > product;
         }
+
+        public static T Sum<T>(IEnumerable <T> arr)
+            {
+             dynamic sum = 0;
+            dynamic sum2 = " ";
+            foreach (var ele in arr)
+            {
+                sum += ele;
+                sum2 += ele;
+         
+            }
+            return sum2;
+           
+
+        }
     }
     public static class MyClass
     {
         public static bool CheckForValidEmailID(this string email)
         {
-            return email.Contains("@gmail.com");
+            return email.Contains("@gmail==.com");
         }
     }
 }

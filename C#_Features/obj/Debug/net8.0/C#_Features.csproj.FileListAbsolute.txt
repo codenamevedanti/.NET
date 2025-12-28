@@ -12,3 +12,4 @@ C:\Users\IET\Desktop\250845920099\.NET\Lab_work\C#_Features\obj\Debug\net8.0\ref
 C:\Users\IET\Desktop\250845920099\.NET\Lab_work\C#_Features\obj\Debug\net8.0\C#_Features.pdb
 C:\Users\IET\Desktop\250845920099\.NET\Lab_work\C#_Features\obj\Debug\net8.0\C#_Features.genruntimeconfig.cache
 C:\Users\IET\Desktop\250845920099\.NET\Lab_work\C#_Features\obj\Debug\net8.0\ref\C#_Features.dll
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\C#_Features\obj\Debug\net8.0\C#_Features.sourcelink.json

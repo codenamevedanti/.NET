@@ -1,0 +1,15 @@
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\bin\Debug\net8.0\LINQ_DEMO3.exe
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\bin\Debug\net8.0\LINQ_DEMO3.deps.json
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\bin\Debug\net8.0\LINQ_DEMO3.runtimeconfig.json
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\bin\Debug\net8.0\LINQ_DEMO3.dll
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\bin\Debug\net8.0\LINQ_DEMO3.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\LINQ_DEMO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\LINQ_DEMO3.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\LINQ_DEMO3.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\LINQ_DEMO3.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\LINQ_DEMO3.sourcelink.json
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\LINQ_DEMO3.dll
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\refint\LINQ_DEMO3.dll
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\LINQ_DEMO3.pdb
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\LINQ_DEMO3.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920099\.NET\Lab_work\LINQ_DEMO3\obj\Debug\net8.0\ref\LINQ_DEMO3.dll
