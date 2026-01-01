@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("factorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b741c61fd04939f0fc4421883d0ef6f4ed45ba42")]
 [assembly: System.Reflection.AssemblyProductAttribute("factorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("factorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
